@@ -1,4 +1,4 @@
-# Laravel 5.8 REST APi
+# CINEMA APi
 This API is created using Laravel 8.75 API Resource. It has Users, Movies and Cinema Locations. Protected routes are also added. Protected routes are accessed via jwt access token.
 
 #### Usage
