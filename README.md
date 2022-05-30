@@ -36,5 +36,3 @@ finally run the following command to seed the database with dummy content.
 * Post POST Create `http://localhost:8000/api/movies/store`
 * Post POST Update `http://localhost:8000/api/movies/update/1`
 * Post DELETE destroy movie by location `http://localhost:8000/api/movies/1/1`
-
-Same For Comments.
